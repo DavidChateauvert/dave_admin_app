@@ -3,7 +3,7 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 
-final transferRef = FirebaseFirestore.instance.collection('transferred');
+final usersRef = FirebaseFirestore.instance.collection('users');
 
 class Home extends StatefulWidget {
   const Home({super.key});
@@ -13,14 +13,6 @@ class Home extends StatefulWidget {
 }
 
 class _HomeState extends State<Home> {
-  addTransfer() async {
-    try {
-      await transferRef.doc("45420945u20492=3").set({});
-    } catch (e) {
-      print("Error create transfer");
-    }
-  }
-
   @override
   Widget build(BuildContext context) {
     return Scaffold(

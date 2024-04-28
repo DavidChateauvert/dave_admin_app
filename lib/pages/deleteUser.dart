@@ -1,4 +1,5 @@
 import 'package:admin_app/pages/deleteUserConfirmation.dart';
+import 'package:admin_app/pages/home.dart';
 import 'package:admin_app/widget/header.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
@@ -41,6 +42,11 @@ class _DeleteUserState extends State<DeleteUser> {
           email: emailController.text, password: passwordController.text);
 
       if (userCredential.user != null) {
+        await usersRef.doc(userCredential.user!.uid).delete();
+        User? userToDelete = FirebaseAuth.instance.currentUser;
+        if (userToDelete != null) {
+          userToDelete.delete();
+        }
         StatusAlert.show(
           context,
           duration: const Duration(seconds: 2),
