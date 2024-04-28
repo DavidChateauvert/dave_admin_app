@@ -1,0 +1,20 @@
+{
+    "@@locale": "en",
+    "language": "English",
+    "header_language": "En",
+    "welcome_to_dave": "Welcome to Dave",
+    "delete_user": "Delete User",
+    "delete_user_undertitle": "In order to delete your user and it's information, please enter your email and your password for Dave",
+    "email": "Email",
+    "email_necessary": "The email is necessary",
+    "email_must_have_a": "The email must have an @",
+    "email_hint_text": "email@exemple.com",
+    "password": "Password",
+    "password_necessary": "The password is necessary",
+    "confirm": "Confirm",
+    "account_success_delete": "Account successfully deleted",
+    "error_message_1": "Your email or password is incorrect. Please try again",
+    "error_message_2": "This user has been desactivited",
+    "error_message_3": "Connection error. Please try again",
+    "delete_user_confirmation": "Your account on Dave and all it's information has been deleted"
+}

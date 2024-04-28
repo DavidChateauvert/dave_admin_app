@@ -1,0 +1,20 @@
+{
+    "@@locale": "fr",
+    "language": "Français",
+    "header_language": "Fr",
+    "welcome_to_dave": "Bienvenue sur Dave",
+    "delete_user": "Supprimer utilisateur",
+    "delete_user_undertitle": "Pour supprimer votre utilisateur et ses informations, veuillez entrer votre courriel et votre mot de passe de Dave",
+    "email": "Courriel",
+    "email_necessary": "Le courriel est nécessaire",
+    "email_must_have_a": "Le courriel doit avoir un @",
+    "email_hint_text": "courriel@exemple.com",
+    "password": "Mot de passe",
+    "password_necessary": "Le mot de passe est nécessaire",
+    "confirm": "Confirmer",
+    "account_success_delete": "Compter supprimer avec succès",
+    "error_message_1": "Votre courriel ou mot de passe est incorrect. Veuillez réessayer SVP.",
+    "error_message_2": "Cette utilisateur a été désactivé. Veuillez réessayer avec un autre utilisateur SVP.",
+    "error_message_3": "Erreur durant la connexion. Veuillez réessayer SVP.",
+    "delete_user_confirmation": "Votre compte sur Dave et toutes ces informations ont été supprimé"
+}
