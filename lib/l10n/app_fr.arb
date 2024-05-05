@@ -16,5 +16,16 @@
     "error_message_1": "Votre courriel ou mot de passe est incorrect. Veuillez réessayer SVP.",
     "error_message_2": "Cette utilisateur a été désactivé. Veuillez réessayer avec un autre utilisateur SVP.",
     "error_message_3": "Erreur durant la connexion. Veuillez réessayer SVP.",
-    "delete_user_confirmation": "Votre compte sur Dave et toutes ces informations ont été supprimé"
+    "delete_user_confirmation": "Votre compte sur Dave et toutes ces informations ont été supprimé",
+    "want_dave": "Tu veux Dave ?",
+    "on_ios": "Télécharger sur iOS",
+    "on_android": "Télécharger sur Android",
+    "click_on_link": "Appuyer ici pour télécharger Dave",
+    "important_info": "Est-que tu as déjà Dave?",
+    "yes": "Oui",
+    "no": "Non",
+    "message_from_dave": "Message de Dave",
+    "important_info_text": "Quand vous vous identifiez pour la première fois sur le nouveau Dave, utilisez l'option de vous identifier avec Google avec le même compte que vous utilisiez avant.",
+    "important_info_text_2": "Malheureusement, parce que j'ai dû changer le système d'authentification, vous allez perdre des données que vous aviez sur Dave, y compris vos posts et vos notifications. Je suis vraiment désolé. Profitez de Dave !", 
+    "ok": "Télécharger Dave maintenant"
 }

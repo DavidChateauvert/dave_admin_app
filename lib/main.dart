@@ -30,7 +30,6 @@ void main() async {
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
-  // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
@@ -40,7 +39,7 @@ class MyApp extends StatelessWidget {
         DeleteUserConfirmation.route: (context) =>
             const DeleteUserConfirmation(),
       },
-      title: 'Admin App - Dave',
+      title: 'Dave',
       theme: ThemeData(
         brightness: Brightness.light,
         colorScheme: const ColorScheme.light(

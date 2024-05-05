@@ -16,5 +16,16 @@
     "error_message_1": "Your email or password is incorrect. Please try again",
     "error_message_2": "This user has been desactivited",
     "error_message_3": "Connection error. Please try again",
-    "delete_user_confirmation": "Your account on Dave and all it's information has been deleted"
+    "delete_user_confirmation": "Your account on Dave and all it's information has been deleted",
+    "want_dave": "Want Dave ?",
+    "on_ios": "Download on iOS",
+    "on_android": "Download on Android",
+    "click_on_link": "Click on this link to download Dave",
+    "important_info": "Do you already have Dave?",
+    "yes": "Yes",
+    "no": "No",
+    "message_from_dave": "Message from Dave",
+    "important_info_text": "The first time you sign in with this new Dave app, please sign-In with google on the same account that you've previously signed in with and wait for to loading circle to finish.",
+    "important_info_text_2": "Unfortunately, I had to change the authentifcation system so you will lose some of your data, including your posts and your notification feed. I'm really sorry. Enjoy Dave !",
+    "ok": "Ok" 
 }
