@@ -82,6 +82,21 @@ class _HomeState extends State<Home> {
           ),
           children: [
             Text(
+              AppLocalizations.of(context)!.important_info_text_1,
+              textAlign: TextAlign.center,
+              style: TextStyle(
+                color: Colors.black,
+                fontFamily: 'Raleway',
+                fontSize:
+                    getResponseTextSize(context, currentWidth, "modalOptions"),
+                fontWeight: FontWeight.w800,
+                height: 1.5,
+              ),
+            ),
+            const SizedBox(
+              height: 32.0,
+            ),
+            Text(
               AppLocalizations.of(context)!.important_info_text,
               textAlign: TextAlign.center,
               style: TextStyle(
@@ -94,7 +109,7 @@ class _HomeState extends State<Home> {
               ),
             ),
             const SizedBox(
-              height: 16.0,
+              height: 32.0,
             ),
             Text(
               AppLocalizations.of(context)!.important_info_text_2,
@@ -109,7 +124,7 @@ class _HomeState extends State<Home> {
               ),
             ),
             const SizedBox(
-              height: 16.0,
+              height: 32.0,
             ),
             SimpleDialogOption(
               onPressed: () => launchUrl(uri),

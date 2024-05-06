@@ -25,6 +25,7 @@
     "yes": "Yes",
     "no": "No",
     "message_from_dave": "Message from Dave",
+    "important_info_text_1": "You're gonna need to delete the old version of Dave",
     "important_info_text": "The first time you sign in with this new Dave app, please sign-In with google on the same account that you've previously signed in with and wait for to loading circle to finish.",
     "important_info_text_2": "Unfortunately, I had to change the authentifcation system so you will lose some of your data, including your posts and your notification feed. I'm really sorry. Enjoy Dave !",
     "ok": "Ok" 

@@ -25,6 +25,7 @@
     "yes": "Oui",
     "no": "Non",
     "message_from_dave": "Message de Dave",
+    "important_info_text_1": "Vous allez devoir supprimer la version de Dave que vous avez en ce moment.",
     "important_info_text": "Quand vous vous identifiez pour la première fois sur le nouveau Dave, utilisez l'option de vous identifier avec Google avec le même compte que vous utilisiez avant.",
     "important_info_text_2": "Malheureusement, parce que j'ai dû changer le système d'authentification, vous allez perdre des données que vous aviez sur Dave, y compris vos posts et vos notifications. Je suis vraiment désolé. Profitez de Dave !", 
     "ok": "Télécharger Dave maintenant"
