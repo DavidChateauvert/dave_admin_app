@@ -8,7 +8,7 @@ import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 
 class DeleteUser extends StatefulWidget {
   const DeleteUser({super.key});
-  static const String route = '/userManagement/deleteUser';
+  static const String route = '/user-management/delete-user';
 
   @override
   State<DeleteUser> createState() => _DeleteUserState();

@@ -4,7 +4,7 @@ import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 
 class DeleteUserConfirmation extends StatelessWidget {
   const DeleteUserConfirmation({super.key});
-  static const String route = '/userManagement/deleteUser/confirmation';
+  static const String route = '/user-management/delete-user/confirmation';
 
   @override
   Widget build(BuildContext context) {

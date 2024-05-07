@@ -1,6 +1,7 @@
 import 'package:admin_app/pages/deleteUser.dart';
 import 'package:admin_app/pages/deleteUserConfirmation.dart';
 import 'package:admin_app/pages/home.dart';
+import 'package:admin_app/pages/privacyPolicy.dart';
 import 'package:admin_app/providers/locale_provider.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
@@ -38,6 +39,7 @@ class MyApp extends StatelessWidget {
         DeleteUser.route: (context) => const DeleteUser(),
         DeleteUserConfirmation.route: (context) =>
             const DeleteUserConfirmation(),
+        PrivacyPolicy.route: (context) => const PrivacyPolicy(),
       },
       title: 'Dave',
       theme: ThemeData(
