@@ -1,3 +1,4 @@
+import 'package:admin_app/pages/contactUs.dart';
 import 'package:admin_app/pages/deleteUser.dart';
 import 'package:admin_app/pages/deleteUserConfirmation.dart';
 import 'package:admin_app/pages/home.dart';
@@ -40,6 +41,7 @@ class MyApp extends StatelessWidget {
         DeleteUserConfirmation.route: (context) =>
             const DeleteUserConfirmation(),
         PrivacyPolicy.route: (context) => const PrivacyPolicy(),
+        ContactUs.route: (context) => const ContactUs(),
       },
       title: 'Dave',
       theme: ThemeData(

@@ -28,5 +28,12 @@
     "important_info_text_1": "Vous allez devoir supprimer la version de Dave que vous avez en ce moment.",
     "important_info_text": "Quand vous vous identifiez pour la première fois sur le nouveau Dave, utilisez l'option de vous identifier avec Google avec le même compte que vous utilisiez avant.",
     "important_info_text_2": "Malheureusement, parce que j'ai dû changer le système d'authentification, vous allez perdre des données que vous aviez sur Dave, y compris vos posts et vos notifications. Je suis vraiment désolé. Profitez de Dave !", 
-    "ok": "Télécharger Dave maintenant"
+    "ok": "Télécharger Dave maintenant",
+    "thanks_input": "Thank you !",
+    "please_continue": "Nous vous reviendrons sous peu",
+    "report_text_error": "Votre texte ne peut pas être vide",
+    "write_us": "Écrivez-nous ...",
+    "contact_us_text": "Veuillez nous dire tout ce que vous pensez que nous devrions savoir. Cela peut être quelques choses que vous voulez changer dans votre profil ou tout sorte de réaction que vous avez sur Dave. Nous vous répondrons sous peu",
+    "submit": "Soumettre",
+    "contact": "Veuillez entrer votre courriel svp pour que nous puissions vous recontacter"
 }

@@ -28,5 +28,12 @@
     "important_info_text_1": "You're gonna need to delete the old version of Dave",
     "important_info_text": "The first time you sign in with this new Dave app, please sign-In with google on the same account that you've previously signed in with and wait for to loading circle to finish.",
     "important_info_text_2": "Unfortunately, I had to change the authentifcation system so you will lose some of your data, including your posts and your notification feed. I'm really sorry. Enjoy Dave !",
-    "ok": "Ok" 
+    "ok": "Ok",
+    "thanks_input": "Thank you !",
+    "please_continue": "We will get back to you shortly",
+    "report_text_error": "Your report cannot be empty",
+    "write_us": "Write us ...",
+    "contact_us_text": "Please tell us anything you think we should know. It can be something you want change on your user account or any feedback, we will then get back to you soon",
+    "submit": "Submit",
+    "contact": "Please enter your email so we can get back to you"
 }

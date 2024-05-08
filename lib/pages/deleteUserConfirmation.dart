@@ -22,7 +22,7 @@ class DeleteUserConfirmation extends StatelessWidget {
               ),
             ),
           ),
-          SizedBox(height: 64.0),
+          const SizedBox(height: 64.0),
         ],
       );
     }
