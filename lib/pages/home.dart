@@ -17,9 +17,11 @@ class _HomeState extends State<Home> {
   final Uri iosUri =
       Uri(scheme: 'https', host: "testflight.apple.com", path: "join/ZzKLVvhU");
   final Uri androidUri = Uri(
-      scheme: 'https',
-      host: "play.google.com",
-      path: "apps/internaltest/4701339527583323102");
+    scheme: 'https',
+    host: "play.google.com",
+    path: "store/apps/details",
+    queryParameters: {'id': 'com.dchateauvert.sm_app'},
+  );
   final double maxWidth = 500.0;
   final double titleFactor = 0.18;
   final double dowloadFactor = 0.06;
