@@ -149,7 +149,7 @@ class _ContactUsState extends State<ContactUs> {
         key: _scaffoldKey,
         appBar: header(
           context,
-          removeBackButton: false,
+          removeBackButton: true,
         ),
         body: Center(
           child: SizedBox(
