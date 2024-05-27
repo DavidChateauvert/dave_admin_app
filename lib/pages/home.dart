@@ -14,8 +14,10 @@ class Home extends StatefulWidget {
 }
 
 class _HomeState extends State<Home> {
-  final Uri iosUri =
-      Uri(scheme: 'https', host: "testflight.apple.com", path: "join/ZzKLVvhU");
+  final Uri iosUri = Uri(
+      scheme: 'https',
+      host: "apps.apple.com",
+      path: "us/app/dave/id6477802709");
   final Uri androidUri = Uri(
     scheme: 'https',
     host: "play.google.com",
